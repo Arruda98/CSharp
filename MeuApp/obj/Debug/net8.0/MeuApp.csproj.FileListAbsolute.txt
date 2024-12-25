@@ -1,0 +1,14 @@
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\bin\Debug\net8.0\MeuApp.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\bin\Debug\net8.0\MeuApp.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\estudos\C#\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
